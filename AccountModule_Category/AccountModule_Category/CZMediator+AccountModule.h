@@ -6,7 +6,7 @@
 //  Copyright © 2019 NB_Mac. All rights reserved.
 //
 
-#import "CZMediator.h"
+#import <CZMediator.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
