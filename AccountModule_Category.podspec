@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "AccountModule_Category"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "AccountModule_Category."
 
   s.description  = <<-DESC
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
-  s.author             = { "cctomato" => "cctomato@outlook.com" }
+  s.author             = { "wcz" => "wangzhi92111@163.com" }
 
   s.platform     = :ios, "8.0"
 
